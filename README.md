@@ -41,7 +41,7 @@ This is the most important step. Once we have the labels genereated, we can **fi
 
 You could visualize the performance of this methdology here - 
 
-[1](./segmentation_result_cat_043.png)
+![1](./segmentation_result_cat_043.png)
 
-[2](./segmentation_result_cat_274.png)
+![2](./segmentation_result_cat_274.png)
 
